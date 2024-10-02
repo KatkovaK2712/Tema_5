@@ -30,10 +30,11 @@ def diff(set1, set2):
 
 set_a = {1, 2, 3, 4}
 set_b = {3, 4, 5, 6}
-print(diff(set_a, set_b))  # Вывод: {1, 2}
+print(diff(set_a, set_b))
 ```
 ### Результат.
-![image](https://github.com/user-attachments/assets/30049587-522d-4ce9-b552-0f9bd79b7dac)
+![Uploading image.png…]()
+
 
 
 ## Выводы
