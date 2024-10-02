@@ -33,7 +33,8 @@ set_b = {3, 4, 5, 6}
 print(diff(set_a, set_b))
 ```
 ### Результат.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/cb4ca64e-cc7f-4190-a31a-7500f903a6db)
+
 
 
 
